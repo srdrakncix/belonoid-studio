@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "race_level": 20,
+  "int_first_level": 10,
+  "int_every": 3,
+  "int_min_sec": 150,
+  "rew_quiet_sec": 300,
+  "review_level": 8,
+  "free_continue": 1,
+  "relay": ""
+}
