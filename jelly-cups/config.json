@@ -9,5 +9,7 @@
   "free_continue": 1,
   "remind": 1,
   "coin_ad": 0,
+  "dp_level": 10,
+  "num_k": 1.25,
   "relay": ""
 }
